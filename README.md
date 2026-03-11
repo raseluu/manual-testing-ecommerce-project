@@ -52,8 +52,8 @@ The following testing documents were created during this project:
 | --------------------- | ------ |
 | Total Test Scenarios  | 12     |
 | Total Test Cases      | 20     |
-| Passed                | 19     |
-| Failed                | 1      |
+| Passed                | 18     |
+| Failed                | 2     |
 | Total Bugs Identified | 2      |
 
 ## Bugs Identified
