@@ -95,4 +95,4 @@ manual-testing-ecommerce-project
 ```
 
 ## Author
-This manual testing project was created by Rasel to demonstrate practical knowledge of software testing, including test planning, test case design, test execution, and defect reporting.
+This manual testing project was created by Rasel.
